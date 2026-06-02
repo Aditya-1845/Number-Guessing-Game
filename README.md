@@ -49,6 +49,25 @@ A Python GUI-based Number Guessing Game built using Tkinter.
 ### Past Scores
 ![Scores](screenshots/past%20scores.jpg)
 
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Aditya-1845/Number-Guessing-Game.git
+```
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the game
+
+```bash
+python game.py
+```
 
 \## Author
 
