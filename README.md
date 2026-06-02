@@ -34,19 +34,19 @@ A Python GUI-based Number Guessing Game built using Tkinter.
 
 ## Screenshots
 
-### Too Low Guess
+### too_low
 ![Too Low](screenshots/too%20low%20guess.jpg)
 
-### Too High Guess
+### too_high
 ![Too High](screenshots/too%20high%20guess.jpg)
 
-### Hint Display
+### hint_display
 ![Hint](screenshots/hint%20display.jpg)
 
-### Correct Guess and Result
+### correct_result
 ![Result](screenshots/correct%20guess%20and%20result.jpg)
 
-### Past Scores
+### past_scores
 ![Scores](screenshots/past%20scores.jpg)
 
 ## Installation
